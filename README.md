@@ -49,8 +49,10 @@ To set up and run the application locally, follow these steps:
     source venv/bin/activate    # For Linux/Mac
     venv\Scripts\activate       # For Windows
 3. pip install -r requirements.txt
+
    pip install -r requirements.txt
 4.Run the Flask application:
+ 
   python app.py
 
 
