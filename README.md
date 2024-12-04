@@ -57,9 +57,8 @@ To set up and run the application locally, follow these steps:
   python app.py
 
 
-Website Home Page
-
-![Screenshot 2024-09-08 041240](https://github.com/user-attachments/assets/3f6b1e7c-87ad-4800-abed-a5d3b419cb83)
-![Screenshot 2024-09-08 043857](https://github.com/user-attachments/assets/7896bbfe-dce2-46eb-9696-3016ad245fb3)
+Some images of project:-
 ![Screenshot 2024-09-08 043844](https://github.com/user-attachments/assets/78a68547-e1db-4752-b5ad-cf5ae690cab7)
+![Screenshot 2024-09-08 043857](https://github.com/user-attachments/assets/7896bbfe-dce2-46eb-9696-3016ad245fb3)
+![Screenshot 2024-09-08 041240](https://github.com/user-attachments/assets/3f6b1e7c-87ad-4800-abed-a5d3b419cb83)
 ![Screenshot 2024-08-31 103022](https://github.com/user-attachments/assets/f4684c1d-79b5-46b2-8813-dc36d36d5fa6)
