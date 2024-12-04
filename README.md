@@ -51,6 +51,7 @@ To set up and run the application locally, follow these steps:
 3. pip install -r requirements.txt
 
    pip install -r requirements.txt
+   
 4.Run the Flask application:
  
   python app.py
